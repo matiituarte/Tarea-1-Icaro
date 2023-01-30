@@ -1,1 +1,4 @@
-Let = 90
+let = 90;
+let = 10;
+let suma = a + b ;
+console.log (suma);
